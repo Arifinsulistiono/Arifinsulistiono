@@ -44,7 +44,6 @@ Currently exploring the world of **Java Development** and **Machine Learning**, 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arifinsulistiono&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arifinsulistiono&theme=dark" width="48%" />
 </p>
 
