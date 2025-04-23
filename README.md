@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Arifinsulistiono/Arifinsulistiono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Muhammad Arifin Sulistiono, an IT student with a passion for learning and building cool projects!  
+Currently exploring **Machine Learning**, **Java Development**, and anything tech-related 🚀
 
-Here are some ideas to get you started:
+🚀 Skills:
+- Java, Python, HTML,
+- MySQL, SQLite
+- scikit-learn, pandas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: arifinsulistiono21@gmail.com 
+📁 Check out my latest project: [Final Grade Predictor]([https://github.com/username/project-name](https://github.com/Arifinsulistiono/pemweb/tree/main/pert4))
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arifinsulistiono&show_icons=true)
