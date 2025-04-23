@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7b1dff54-a964-49c4-9943-0a191b8482da)<!-- Profil Rozalia - README GitHub -->
+<!-- Profil Rozalia - README GitHub -->
 
 <p align="center">
   <img src="https://media1.tenor.com/m/7bL43aKBogcAAAAd/genshin-impact-hu-tao.gif" alt="Animated Banner" width="80%" />
