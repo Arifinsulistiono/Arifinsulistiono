@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=rozalia&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Arifinsulistiono&style=flat-square" alt="Profile views" />
 </p>
 
 ---
