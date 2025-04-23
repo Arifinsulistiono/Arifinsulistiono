@@ -1,7 +1,7 @@
 <!-- Profil Rozalia - README GitHub -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" alt="Animated Banner" width="80%" />
+  <img src="[https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif](https://media1.tenor.com/m/7bL43aKBogcAAAAd/genshin-impact-hu-tao.gif)" alt="Animated Banner" width="80%" />
 </p>
 
 <p align="center">
