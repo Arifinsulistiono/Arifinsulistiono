@@ -1,4 +1,8 @@
 <!-- Profil Rozalia - README GitHub -->
+<marquee direction="left" scrollamount="6">
+🚀 Hello, I'm <strong>ArifinSulistiono</strong> — Welcome to my GitHub Profile! 👩‍💻
+</marquee>
+
 
 <h2 align="center">Hi there 👋, I'm Muhammad Arifin Sulistiono</h2>
 <p align="center">💻 IT Student | 💡 Tech Enthusiast | 🎓 Passionate Learner</p>
