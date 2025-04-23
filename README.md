@@ -1,8 +1,18 @@
 <!-- Profil Rozalia - README GitHub -->
 
-<marquee direction="left" scrollamount="6">
-🚀 Hello, I'm <strong>ArifinSulistiono</strong> — Welcome to my GitHub Profile! 👩‍💻
-</marquee>
+<p align="center">
+  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" alt="Animated Banner" width="80%" />
+</p>
+
+<p align="center">
+  <a href="https://instagram.com/rozalia" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=rozalia&style=flat-square" alt="Profile views" />
+</p>
+
+---
 
 
 <h2 align="center">Hi there 👋, I'm Muhammad Arifin Sulistiono</h2>
