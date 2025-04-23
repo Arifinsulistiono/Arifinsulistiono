@@ -47,10 +47,6 @@ Currently exploring the world of **Java Development** and **Machine Learning**, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arifinsulistiono&theme=dark" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifinsulistiono&layout=compact&theme=dark" width="40%" />
-</p>
-
 ---
 
 ### 📁 Projects
