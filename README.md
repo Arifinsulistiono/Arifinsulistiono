@@ -1,7 +1,7 @@
 <!-- Profil Rozalia - README GitHub -->
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/7bL43aKBogcAAAAd/genshin-impact-hu-tao.gif" alt="Animated Banner" width="60%" />
+  <img src="https://media1.tenor.com/m/7bL43aKBogcAAAAd/genshin-impact-hu-tao.gif" alt="Animated Banner" width="40%" />
 </p>
 
 <p align="center">
